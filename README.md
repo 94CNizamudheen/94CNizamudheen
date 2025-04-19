@@ -1,8 +1,7 @@
-# 👋 Hello, I'm [Your Name]
+# 👋 Hello, I'm Nizamudheen C
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
-[![Portfolio](https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yourportfolio.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nizamudheen-c-b9b64b318/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://94-c-nizamudheen.netlify.app/)
 
 ## 💻 Full Stack MERN Developer
 
@@ -20,26 +19,17 @@ Passionate about building robust web applications with modern JavaScript technol
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-## 🔥 Featured Projects
+### 📈 GitHub Stats
 
-### Project Name 1
-A full-stack application that [brief description]. Built with React, Node.js, Express, and MongoDB.
-[Link to repo/demo]
-
-### Project Name 2
-A [type of application] that [what it does]. Utilized TypeScript, Next.js, and GraphQL.
-[Link to repo/demo]
-
-### Project Name 3
-A [brief description] application with [key features]. Implemented with MERN stack and Redux.
-[Link to repo/demo]
-
-## 📊 GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=94CNizamudheen&show_icons=true&theme=radical" height="160px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=94CNizamudheen&layout=compact&theme=radical" height="160px"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=94CNizamudheen&theme=react-dark&hide_border=true&area=true" alt="Nizamudheen's GitHub Activity Graph" />
+</p>
 
 ## 🌱 Currently Learning
 
@@ -50,18 +40,10 @@ A [brief description] application with [key features]. Implemented with MERN sta
 
 ## 📫 How to Reach Me
 
-- 📧 Email: your.email@example.com
-- 💼 LinkedIn: [Your Name](https://linkedin.com/in/yourprofile)
-- 🐦 Twitter: [@yourhandle](https://twitter.com/yourhandle)
+- 📧 Email: nisunisam2@gmail.com
+- 💼 LinkedIn: [Nizamudheen C](https://www.linkedin.com/in/nizamudheen-c-b9b64b318/)
+- 📱 Mobile: +91 8129947894
 
-## 💡 Recent Blog Posts
 
-<!-- BLOG-POST-LIST:START -->
-- [How to Set Up a MERN Stack with TypeScript](https://yourblog.com/post1)
-- [Advanced React Patterns for 2025](https://yourblog.com/post2)
-- [Optimizing MongoDB for Production](https://yourblog.com/post3)
-<!-- BLOG-POST-LIST:END -->
 
----
-
-⭐️ From [yourusername](https://github.com/yourusername)
+⭐️ From [94CNizamudheen](https://github.com/94CNizamudheen)
