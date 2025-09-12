@@ -34,8 +34,7 @@ Passionate about building robust web applications with modern JavaScript technol
 
 ## 🌱 Currently Learning
 
-- Kubernetes
-- Web3 development
+-Docker
 
 ## 📫 How to Reach Me
 
