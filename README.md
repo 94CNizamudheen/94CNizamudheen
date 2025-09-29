@@ -1,7 +1,7 @@
 # 👋 Hello, I'm Nizamudheen C
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nizamudheen-c-b9b64b318/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://94-c-nizamudheen.netlify.app/)
+
 
 ## 💻 Full Stack MERN Developer
 
