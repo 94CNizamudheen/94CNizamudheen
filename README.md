@@ -56,7 +56,7 @@ I specialize in creating seamless user experiences with **React** on the fronten
 
 - 🦀 Rust
 - 🧱 Drizzle ORM
-- ⚡ Tauri (Desktop App Integration)
+- ⚡ Tauri 
 - 🐳 Docker
 
 ---
