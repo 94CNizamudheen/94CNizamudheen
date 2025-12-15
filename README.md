@@ -3,7 +3,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nizamudheen-c-b9b64b318/)
 
 
-## 💻 Full Stack MERN Developer
+## 💻 Software Engineer at RBS
 
 Passionate about building robust web applications with modern JavaScript technologies.  
 I specialize in creating seamless user experiences with **React** on the frontend and **Node.js / NestJS** on the backend — integrating TypeScript, Rust, and Tauri for next-gen desktop app experiences.
