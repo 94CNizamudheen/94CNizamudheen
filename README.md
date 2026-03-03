@@ -52,15 +52,6 @@ I specialize in creating seamless user experiences with **React** on the fronten
 
 ---
 
-### 🌱 Currently Learning
-
-- 🦀 Rust
-- 🧱 Drizzle ORM
-- ⚡ Tauri 
-- 🐳 Docker
-
----
-
 ### 📫 How to Reach Me
 
 - 📧 **Email:** [nisunisam2@gmail.com](mailto:nisunisam2@gmail.com)  
